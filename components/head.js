@@ -7,6 +7,7 @@ export default function HeadObject({children}) {
     //const darkSearchBarColor = "#000000"; // This is your Safari 15 Search Bar Color in Dark Mode (optional)
     const keywords = "blossom, hack club blossom, blossom hack club, hack club days of service, hack club days of service blossom, blossom girl scouts, girl scouts coding event, girl scouts hackathon, blossom hackathon, hack club days of service atlanta, days of service atlanta, atlanta georgia girl scouts hackathon, atlanta blossom, georgia days of service";
     const author = "Sahiti Dasari";
+    const twitter = " ";
     const url = "http://localhost:3000"; // This is your og:url or domain (optional but recommended)
     //const image = "/ogimage.png"; // This is your OpenGraph image
     return (

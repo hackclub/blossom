@@ -3,6 +3,11 @@ import { useEffect } from 'react'
 import { CgDarkMode } from 'react-icons/cg'
 import {useTheme} from 'next-themes'
 
+const links = [
+    { label: "Page 1", href: "/" },
+    { label: "Page 2", href: "/" },
+    { label: "Page 3", href: "/" },
+]
 
 export default function Nav() {
     const {theme, setTheme} = useTheme()
@@ -12,7 +17,7 @@ export default function Nav() {
     return (
         <nav className="dark:text-white">
             <ul className="flex flex-wrap sm:justify-between items-start sm:items-center p-8 mt-6 sm:mt-0">
-                <li>Perfect Next.js Theme</li>
+                <li>Blossom 🌸</li>
                 <ul className={`mx-auto sm:mx-0 flex flex-row space-x-5`}>
                     {links.map(({ href, label }) => (
                         <li className="self-center" key={`${href}${label}`}>
