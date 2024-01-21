@@ -3,16 +3,11 @@ import { useEffect } from 'react'
 import { CgDarkMode } from 'react-icons/cg'
 import {useTheme} from 'next-themes'
 
-const links = [
-    { label: "Page 1", href: "/" },
-    { label: "Page 2", href: "/" },
-    { label: "Page 3", href: "/" },
-]
 
 export default function Nav() {
     const {theme, setTheme} = useTheme()
     useEffect(() => {
-        console.log('Made by Sarthak Mohanty. All Rights Reserved. Want to hire me? https://srtk.me')
+        console.log('Made with love @ Hack Club https://hackclub.com/')
     })
     return (
         <nav className="dark:text-white">

@@ -5,10 +5,10 @@ export default function Home() {
   return (
     <div className="dark:text-white dark:bg-black">
       <HeadObject>
-        {/* You can put extra tags in here, or leave it blank */}
+        {/*blossom, hack club blossom, blossom hack club, hack club days of service, hack club days of service blossom, blossom girl scouts, girl scouts coding event, girl scouts hackathon, blossom hackathon, hack club days of service atlanta, days of service atlanta, atlanta georgia girl scouts hackathon, atlanta blossom, georgia days of service*/}
       </HeadObject>
       <Nav />
-      The perfect Next.js Theme. Contains everything. Check README for more information.
+ 
     </div>
   )
 }
