@@ -14,5 +14,87 @@ html.dark {
     }
   }
 
+html.light{
+  color:black;
+  background-color: #FFDBEF;
+  ;
+}
+
+.wutdos{
+  font-family: Libre Caslon Text;
+font-size: 40px;
+font-weight: 700;
+line-height: 49px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: Libre Caslon Text;
+font-size: 40px;
+font-weight: 400;
+line-height: 49px;
+letter-spacing: 0em;
+
+
+width: 670px;
+height: 514px;
+top: 747px;
+left: 72px;
+
+  width: fit-content;
+  padding: 20px;
+}
+.containerwutdos {
+  padding: 10px;
+  width: 50%;
+}
+
+.mysterybox {
+/*this doesn't work*/
+  background-color:linear-gradient(0deg, #000000, #000000),
+  linear-gradient(0deg, #FF8EC4, #FF8EC4);
+  width: 522px;
+  height: 471px;
+  top: 724px;
+  left: 832px;
+  border-radius: 6px;
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px 0px #00000040;
+
+
+}
+
+.blossomtitle{
+ 
+  font-family: Libre Caslon Text;
+  font-size: 200px;
+  font-weight: 700;
+  line-height: 246px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.hcdos{
+  text-align: center;
+  font-family: Libre Caslon Text;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 49px;
+  letter-spacing: 0em;
+  text-align: center;
+
+
+}
+
+.dates{
+  font-family: Libre Caslon Text;
+font-size: 30px;
+font-weight: 700;
+line-height: 37px;
+letter-spacing: 0em;
+text-align: center;
+color: #D5688C;
+
+}
+
 /* Fixes outline style for inputs on Safari */
 input:focus { outline: none; }
