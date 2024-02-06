@@ -14,5 +14,33 @@ html.dark {
     }
   }
 
+html.light{
+  color:black;
+  background-color: #FFDBEF;
+  ;
+}
+
+.wutdos{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  width: fit-content;
+  padding: 20px;
+}
+.containerwutdos {
+  padding: 10px;
+  width: 40em;
+}
+
+.blossomtitle{
+ 
+  font-family: Libre Caslon Text;
+  font-size: 200px;
+  font-weight: 700;
+  line-height: 246px;
+  letter-spacing: 0em;
+  text-align: center;
+
+
+}
 /* Fixes outline style for inputs on Safari */
 input:focus { outline: none; }
