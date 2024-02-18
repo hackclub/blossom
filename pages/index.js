@@ -14,7 +14,7 @@ export default function Home() {
           <img
             src="/blossomlogo.png"
             alt="A pink flower with the word 'blossom' to the right of it."
-            className="lg:w-1/3"
+            className="w-1/2 lg:w-1/3"
           />
           <div className="text-xl font-bold lowercase">
             A Hack Club Day of Service
