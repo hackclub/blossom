@@ -32,6 +32,6 @@ If you're interested in checking out every transaction, our finances for Blossom
 
 ## Meet the Team!
 
-Lead Organizer: [https://github.com/sahitid](@sahitid)
+Lead Organizer: [@sahitid](https://github.com/sahitid)
 Members:
 - add your name here w/ a PR!
