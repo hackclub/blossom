@@ -2,24 +2,20 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-/* Fixes Tailwind h-screen on iPhones */
-@supports (-webkit-touch-callout: none) {
-    .h-screen {
-        height: -webkit-fill-available;
-    }
+html {
+    @apply bg-light-pink scroll-smooth;
 }
 
 body {
-    @apply bg-light-pink overflow-x-hidden scroll-smooth lowercase text-black;
-}
-
-/* Fixes outline style for inputs on Safari */
-input:focus {
-    outline: none;
+    @apply lowercase text-black;
 }
 
 span {
     @apply font-medium text-pink-500 underline decoration-pink-500 decoration-wavy decoration-[1.5px];
+}
+
+a > span {
+    @apply hover:bg-dark-pink hover:bg-opacity-40 hover:text-pink-900 hover:decoration-2;
 }
 
 h2 {
@@ -30,10 +26,10 @@ h3 {
     @apply text-lg font-semibold italic;
 }
 
-/* .collapse-title {
-    @apply inline-block w-fit rounded-full border border-pink-500 px-3 py-1 text-center text-lg font-semibold italic;
-} */
+h4 {
+    @apply text-xl font-semibold italic;
+}
 
-.collapse-title {
-    @apply font-bold italic;
+.faq {
+    @apply my-4 w-full border border-dashed border-pink-500 p-4 lg:w-3/4;
 }

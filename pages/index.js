@@ -1,4 +1,3 @@
-import Calendar from "../components/calendar";
 import Faq from "../components/faq";
 import HeadObject from "../components/head";
 import Nav from "../components/nav";
@@ -7,9 +6,7 @@ import Photos from "../components/photo";
 export default function Home() {
   return (
     <>
-      <HeadObject>
-        {/*blossom, hack club blossom, blossom hack club, hack club days of service, hack club days of service blossom, blossom girl scouts, girl scouts coding event, girl scouts hackathon, blossom hackathon, hack club days of service atlanta, days of service atlanta, atlanta georgia girl scouts hackathon, atlanta blossom, georgia days of service*/}
-      </HeadObject>
+      <HeadObject />
       <Nav />
       <main>
         {/* Hero */}
@@ -17,12 +14,11 @@ export default function Home() {
           <img
             src="/blossomlogo.png"
             alt="A pink flower with the word 'blossom' to the right of it."
-            className="w-1/2 lg:w-1/3"
+            className="lg:w-1/3"
           />
           <div className="text-xl font-bold lowercase">
             A Hack Club Day of Service
           </div>
-          {/* <Calendar day={16} month={"March"} /> */}
           <div className="">March 16th | Atlanta, GA</div>
         </section>
 
@@ -97,6 +93,15 @@ export default function Home() {
           <Faq />
         </section>
       </main>
+      <footer className="bg-dark-pink flex items-center justify-center bg-opacity-20 py-4">
+        <p className="">
+          🌸 This website is open source at{" "}
+          <a href="https://github.com/hackclub/blossom">
+            <span>hackclub/blossom</span>
+          </a>
+          .
+        </p>
+      </footer>
     </>
   );
 }
