@@ -17,8 +17,12 @@ html.dark {
 
 html.light{
   color:black;
-  background-color: #FFDBEF;
+  background-color: #FFEAF4;
   ;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 .wutdos{
@@ -46,20 +50,14 @@ left: 72px;
 }
 .containerwutdos {
   padding: 10px;
-  width: 50%;
 }
 
-.mysterybox {
-/*this doesn't work*/
-  background-color:#FF8EC4;
-  
-  width: 522px;
-  height: 471px;
-  top: 724px;
-  left: 832px;
-  border-radius: 6px;
-  border: 2px solid #000000;
+.links {
+  font-family: Libre Caslon Text;
+}
 
+.libre{
+  font-family: Libre Caslon Text;
 }
 
 .hcdos{
@@ -81,7 +79,7 @@ font-weight: 700;
 line-height: 37px;
 letter-spacing: 0em;
 text-align: center;
-color: #D5688C;
+color: #FF66C4;
 
 }
 

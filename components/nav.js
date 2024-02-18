@@ -2,11 +2,12 @@ import Link from 'next/link'
 import { useEffect } from 'react'
 import { CgDarkMode } from 'react-icons/cg'
 import {useTheme} from 'next-themes'
+import Image from "next/image";
 
 const links = [
-    { label: "Page 1", href: "/" },
-    { label: "Page 2", href: "/" },
-    { label: "Page 3", href: "/" },
+    { label: "what is blossom?", href: "#dos" },
+    { label: "past days of service", href: "#past-dos" },
+    { label: "faq", href: "#faq" },
 ]
 
 export default function Nav() {
@@ -17,13 +18,20 @@ export default function Nav() {
     return (
         <nav className="dark:text-white">
             <ul className="flex flex-wrap sm:justify-between items-start sm:items-center p-8 mt-6 sm:mt-0">
-                <li>Blossom 🌸</li>
+            <Link target='_blank' href="https://daysofservice.hackclub.com/">
+            <Image
+                src="/header.png"
+                width={250}
+                height={250}
+                alt="girl scouts of greater atlanta x hack club"
+                links
+            /></Link>
                 <ul className={`mx-auto sm:mx-0 flex flex-row space-x-5`}>
                     {links.map(({ href, label }) => (
                         <li className="self-center" key={`${href}${label}`}>
                             <Link
                                 href={href}
-                                className={`font-inter px-4 py-2 rounded hover:bg-black dark:hover:bg-white hover:bg-opacity-10 dark:hover:bg-opacity-10`}>
+                                className={`links px-4 font-bold py-2 rounded hover:bg-black dark:hover:bg-white hover:bg-opacity-10 dark:hover:bg-opacity-10`}>
 
                                 {label}
 
