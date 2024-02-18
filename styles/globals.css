@@ -3,11 +3,11 @@
 @import "tailwindcss/utilities";
 
 html {
-    @apply bg-light-pink scroll-smooth;
+    @apply scroll-smooth;
 }
 
 body {
-    @apply lowercase text-black;
+    @apply bg-light-pink lowercase text-black;
 }
 
 span {
