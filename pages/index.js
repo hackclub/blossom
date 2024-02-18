@@ -14,7 +14,7 @@ export default function Home() {
           <img
             src="/blossomlogo.png"
             alt="A pink flower with the word 'blossom' to the right of it."
-            className="w-1/2 lg:w-1/3"
+            className="w-2/3 lg:w-1/3"
           />
           <div className="text-xl font-bold lowercase">
             A Hack Club Day of Service
@@ -26,7 +26,7 @@ export default function Home() {
         <section className="mx-auto mb-16 flex w-11/12 flex-col items-center gap-4 sm:w-3/4 lg:w-2/3 lg:flex-row lg:items-start xl:w-1/2">
           <div className="flex flex-col items-center gap-3 lg:items-start">
             <h2>What is a Day of Service?</h2>
-            <p className="px-3 text-xl">
+            <p className="px-3 text-lg md:text-xl">
               Blossom is a <span>gender-focused hackathon</span> (social coding
               event) open to all Girl Scouts! We welcome you come together for a
               day to discover the joy of code, build awesome projects, and share
