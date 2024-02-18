@@ -28,10 +28,11 @@ At Blossom, we divided the event into 2 tracks- Onboard and Blot. More informati
 
 Coming soon!
 
-If you're interested in checking out every transaction, our finances for Blossom has been open sourced [here](https://hcb.hackclub.com/blossom) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
+If you're interested in checking out every transaction, our finances for Blossom has been open-sourced [here](https://hcb.hackclub.com/blossom) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
 
 ## Meet the Team!
 
 Lead Organizer: [@sahitid](https://github.com/sahitid)
+
 Members:
 - add your name here w/ a PR!
