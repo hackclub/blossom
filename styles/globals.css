@@ -10,7 +10,7 @@
 }
 
 body {
-    @apply bg-light-pink scroll-smooth lowercase text-black;
+    @apply bg-light-pink overflow-hidden scroll-smooth lowercase text-black;
 }
 
 /* Fixes outline style for inputs on Safari */
