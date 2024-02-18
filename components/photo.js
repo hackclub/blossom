@@ -50,7 +50,7 @@ const photos = [
 
 export default function Photos() {
   return (
-    <div className="flex flex-wrap justify-center py-10">
+    <div className="flex flex-wrap justify-center py-10 md:flex-row">
       {photos.map((photo, i) => (
         <Photo
           key={i}
