@@ -15,7 +15,7 @@ span {
 }
 
 a > span {
-    @apply hover:bg-dark-pink hover:bg-opacity-40 hover:text-pink-900 hover:decoration-2;
+    @apply hover:bg-dark-pink/40 hover:text-pink-900 hover:decoration-2;
 }
 
 h2 {

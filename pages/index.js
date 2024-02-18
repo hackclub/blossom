@@ -93,7 +93,7 @@ export default function Home() {
           <Faq />
         </section>
       </main>
-      <footer className="bg-dark-pink flex items-center justify-center bg-opacity-20 py-4">
+      <footer className="bg-dark-pink/20 flex items-center justify-center py-4">
         <p className="">
           🌸 This website is open source at{" "}
           <a href="https://github.com/hackclub/blossom">
