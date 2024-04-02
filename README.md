@@ -45,7 +45,13 @@ Through the Blot track Girl Scouts delved into an introduction of JavaScript to 
 
 ## 💵 The Budget
 
-Coming soon!
+Blossom started out with an exact budget of $9,300. Here is an approximate breakdown:
+| Item | Amount ($) |
+|------|--------|
+|✈️ Travel for volunteers| 3,500 |
+|👚 Hackathon: Swag (Sweatshirts + Stickers), Decorations, Workshops, Snacks + Lunch | 2,500 |
+|🥘 Dinner | 2,500 |
+|🐶 Weekend expenses | 800 |
 
 If you're interested in checking out every transaction, our finances for Blossom has been open-sourced [here](https://hcb.hackclub.com/blossom) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
 
