@@ -24,7 +24,7 @@ Like past Days of Service events such as Horizon, Alpine, Spark, Lonestar, and H
 
 We had an amazing dinner the night before the Day of Service at Colletta with over 28 technical women in STEM fields.
 
-Inspiring toast from our dinner: We filmed a toast prepared by one of our dinner guests - Roseline Kanagaraj - a Solution Architect from Siemens corp, called “The 7 R’s” - 7 things she recommends for young girls starting out in the tech industry. (Check it out here.)[https://www.youtube.com/watch?v=MHMm7gcAtEk]
+Inspiring toast from our dinner: We filmed a toast prepared by one of our dinner guests - Roseline Kanagaraj - a Solution Architect from Siemens corp, called “The 7 R’s” - 7 things she recommends for young girls starting out in the tech industry. [Check it out here.](https://www.youtube.com/watch?v=MHMm7gcAtEk)
 
 ## 🧩 Workshops
 
