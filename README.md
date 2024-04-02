@@ -24,14 +24,15 @@ Like past Days of Service events such as Horizon, Alpine, Spark, Lonestar, and H
 
 We had an amazing dinner the night before the Day of Service at Colletta with over 28 technical women in STEM fields.
 
-Inspiring toast from our dinner: We filmed a toast prepared by one of our dinner guests - Roseline Kanagaraj - a Solution Architect from Siemens corp, called “The 7 R’s” - 7 things she recommends for young girls starting out in the tech industry. [Check it out here.](https://www.youtube.com/watch?v=MHMm7gcAtEk)
+Inspiring toast from our dinner: We filmed a toast prepared by one of our dinner guests - Roseline Kanagaraj - a Solution Architect from Siemens, called “The 7 R’s” or 7 things she recommends for young girls starting out in the tech industry. [Check it out here.](https://www.youtube.com/watch?v=MHMm7gcAtEk)
 
 ## 🧩 Workshops
 
 At Blossom, we divided the event into 2 tracks- PCB Keychains and Blot.
+
 <img src="https://cloud-hpyf4ao2i-hack-club-bot.vercel.app/0image.png" width="500px">
 
-In the PCB Keychains track the Girl Scouts crafted their own printed circuit boards (PCB) keychains with EasyEDA.
+In the PCB Keychains track the Girl Scouts crafted their own printed circuit boards (PCB) keychains with EasyEDA. They first learned the basics of making a circuit, as well as what the purpose of the different parts of a PCB were including a battery, capacitor, resistor, wires, and switch. Next the girls logged into EasyEDA, created their first schematic for their PCBs, spent time designing their final keychains, and finally allowed their design to come to life!
 
 <img src="https://cloud-46gwb3zpv-hack-club-bot.vercel.app/0image.png" width="500px">
 <img src="https://cloud-52zp6whux-hack-club-bot.vercel.app/0image.png" width="500px">
