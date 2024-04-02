@@ -22,7 +22,16 @@ Like past Days of Service events such as Horizon, Alpine, Spark, Lonestar, and H
 
 ## 🧩 Workshops
 
-At Blossom, we divided the event into 2 tracks- Onboard and Blot. More information coming soon!
+At Blossom, we divided the event into 2 tracks- PCB Keychains and Blot.
+[introduction to the two tracks](https://cloud-hpyf4ao2i-hack-club-bot.vercel.app/0image.png)
+
+In the PCB Keychains track the Girl Scouts crafted their own printed circuit boards (PCB) keychains with EasyEDA.
+[](https://cloud-46gwb3zpv-hack-club-bot.vercel.app/0image.png)
+[](https://cloud-52zp6whux-hack-club-bot.vercel.app/0image.png)
+
+Through the Blot track Girl Scouts delved into an introduction of JavaScript to code drawings on Blot: Hack Club's Drawing Robot.
+[](https://cloud-9acbpk1ea-hack-club-bot.vercel.app/0image.png)
+[](https://cloud-n240wed1e-hack-club-bot.vercel.app/0image.png)
 
 ## 💵 The Budget
 
