@@ -29,21 +29,26 @@ Inspiring toast from our dinner: We filmed a toast prepared by one of our dinner
 ## 🧩 Workshops
 
 At Blossom, we divided the event into 2 tracks- PCB Keychains and Blot.
-![introduction to the two tracks](https://cloud-hpyf4ao2i-hack-club-bot.vercel.app/0image.png)
+<img src="https://cloud-hpyf4ao2i-hack-club-bot.vercel.app/0image.png" width="500px">
 
 In the PCB Keychains track the Girl Scouts crafted their own printed circuit boards (PCB) keychains with EasyEDA.
-![](https://cloud-46gwb3zpv-hack-club-bot.vercel.app/0image.png)
-![](https://cloud-52zp6whux-hack-club-bot.vercel.app/0image.png)
+
+<img src="https://cloud-46gwb3zpv-hack-club-bot.vercel.app/0image.png" width="500px">
+<img src="https://cloud-52zp6whux-hack-club-bot.vercel.app/0image.png" width="500px">
+<img src="https://cloud-6g8fgry05-hack-club-bot.vercel.app/0image.png" width="500px">
 
 Through the Blot track Girl Scouts delved into an introduction of JavaScript to code drawings on Blot: Hack Club's Drawing Robot.
-![](https://cloud-9acbpk1ea-hack-club-bot.vercel.app/0image.png)
-![](https://cloud-n240wed1e-hack-club-bot.vercel.app/0image.png)
+
+<img src="https://cloud-9acbpk1ea-hack-club-bot.vercel.app/0image.png" width="500px">
+<img src="https://cloud-n240wed1e-hack-club-bot.vercel.app/0image.png" width="500px">
 
 ## 💵 The Budget
 
 Coming soon!
 
 If you're interested in checking out every transaction, our finances for Blossom has been open-sourced [here](https://hcb.hackclub.com/blossom) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
+
+<img src="https://cloud-aq41mqgt8-hack-club-bot.vercel.app/0image.png" width="500px">
 
 ## Meet the Team!
 
